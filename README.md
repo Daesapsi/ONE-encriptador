@@ -1,0 +1,3 @@
+# ONE-encriptador
+
+¿Te gustaría enviar mensajes secretos a tus contactos usando un código especial? Entonces te invito a conocer mi proyecto ONE encriptador, una aplicación web que te permite encriptar y desencriptar textos usando unas reglas simples pero efectivas. Con ONE encriptador, podrás convertir cualquier palabra o frase en una versión codificada que solo tú y tus amigos podrán entender. Por ejemplo, “hola” se convierte en “holober”, y “programación” se convierte en “praiogramentertión”. ¿Quieres probarlo? Visita mi página https://daesapsi.github.io/ONE-encriptador/ y descubre cómo funciona. Si te gusta, comparte tu opinión y tu texto encriptado con el hashtag #ONEencriptador. ¡Te espero!
