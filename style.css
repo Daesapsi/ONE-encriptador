@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url('/IMG/FondoEspacial.jpg');
+    background-image: url('IMG/FondoEspacial.jpg');
     background-size: cover;
   }
 
@@ -59,7 +59,7 @@ main{
 .mensaje{
     height: 630px;
     background: white;
-    background-image: url("/IMG/Muñeco.png");
+    background-image: url("IMG/Muñeco.png");
     background-repeat: no-repeat;
     background-position: center;
     border: none;
